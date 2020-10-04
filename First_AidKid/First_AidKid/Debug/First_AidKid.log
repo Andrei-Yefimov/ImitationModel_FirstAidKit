@@ -1,0 +1,66 @@
+﻿Построение начато 24.05.2019 5:56:49.
+     1>Проект "E:\ImitatcionnieModeli\First_AidKid\First_AidKid\First_AidKid.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\First_AidKid.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Source_main.cpp
+         Source_main.cpp
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\simlib.h(373): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\simlib.h(386): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\simlib.h(408): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\simlib.h(409): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\simlib.h(517): warning C4305: =: усечение из "double" к "float"
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\simlib.h(518): warning C4305: =: усечение из "double" к "float"
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\simlib.h(576): warning C4305: =: усечение из "double" к "float"
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\simlib.h(577): warning C4305: =: усечение из "double" к "float"
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\simlib.h(802): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(148): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(150): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(151): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(155): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253): см. объявление "fscanf"
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(157): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253): см. объявление "fscanf"
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(170): warning C4305: =: усечение из "double" к "float"
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(171): warning C4305: =: усечение из "double" к "float"
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(206): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(207): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(241): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(278): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(301): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(333): warning C4305: +=: усечение из "double" к "float"
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(337): warning C4305: +=: усечение из "double" к "float"
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(341): warning C4305: +=: усечение из "double" к "float"
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(388): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(403): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(497): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(523): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(535): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(551): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(578): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(588): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(595): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(601): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(610): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(623): warning C4018: <: несоответствие типов со знаком и без знака
+     1>e:\imitatcionniemodeli\first_aidkid\first_aidkid\source_main.cpp(638): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\simlib.h(521): warning C4715: sampst: значение возвращается не при всех путях выполнения
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\simlib.h(582): warning C4715: timest: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ImitatcionnieModeli\First_AidKid\Debug\First_AidKid.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\First_AidKid.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\ImitatcionnieModeli\First_AidKid\Debug\First_AidKid.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ImitatcionnieModeli\First_AidKid\Debug\First_AidKid.lib" /MACHINE:X86 Debug\Source.obj
+         Debug\Source_01.obj
+         Debug\Source_main.obj
+         LINK : не найден или не выполнена сборка E:\ImitatcionnieModeli\First_AidKid\Debug\First_AidKid.exe при последней инкрементной компоновке; выполняется полная компоновка
+         First_AidKid.vcxproj -> E:\ImitatcionnieModeli\First_AidKid\Debug\First_AidKid.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\ImitatcionnieModeli\First_AidKid\Debug\First_AidKid.exe;#1" /manifest Debug\First_AidKid.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\First_AidKid.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\First_AidKid.lastbuildstate".
+     1>Построение проекта "E:\ImitatcionnieModeli\First_AidKid\First_AidKid\First_AidKid.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:04.37
